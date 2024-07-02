@@ -16,11 +16,11 @@ Esse foi um dos desafios propostos no curso <b>DevQuest</b> com os seguintes pas
 
 EX: .produtos-casa th { … }
 
-- [<img src="./tabela-moda.png">
+ [<img src="./tabela-moda.png">
 
 
 
-- <img src="./tabela-casa.png">]
+ <img src="./tabela-casa.png">]
 
 ## 🧑‍💻 Tecnologias Utilizadas
 
